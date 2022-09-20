@@ -1,2 +1,2 @@
 # Tec-Programacao
-Softwares feitos em aula de Técnicas de Progamação.
+Códigos em JAVA feitos em aula nna FATEC Itapira
